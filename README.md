@@ -1,5 +1,6 @@
 # [DailyCodingProblem](https://github.com/MoranLeven/DailyCodingProblem)
 ### Solutions for DailyCodingProblem in Python. Try these and feel free to use and share.
+![Me](https://github.com/MoranLeven/DailyCodingProblem/blob/master/githubProjPic%20(2)%20(1).jpg)
 
 #### [Problem 1](https://github.com/MoranLeven/DailyCodingProblem/blob/master/DailyCodingProblems/Problems%20%26%20Solutions/Problem1/Problem1.py)
 ```
